@@ -6,6 +6,14 @@ no expansion cards, as thin as the I/O shield allows.
 
 ![preview](preview.png)
 
+## Real prints
+
+| | |
+|---|---|
+| ![real print 1](images/realprint-1.png) | ![real print 2](images/realprint-2.png) |
+| ![real print 3](images/realprint-3.png) | ![real print 4](images/realprint-4.png) |
+| ![real print 5](images/realprint-5.png) | |
+
 Written as a single [OpenSCAD](https://openscad.org/) file. Every dimension —
 board size, wall thickness, I/O shield position, standoff pins, vents, front
 panel holes — is a named variable near the top of `case.scad`, so it can be
